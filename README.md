@@ -83,19 +83,9 @@ In addition to software development, I've worked as a **Scrum Master**, mentorin
 
 ---
 
-## 🎓 Certifications
+## ⚡ Fun Fact
 
-- Computer Vision Nanodegree (Udacity)
-- Deep Learning Specialization
-- Machine Learning Specialization
-- AWS Academy Cloud Foundations
-- Apache Kafka for Beginners
-
----
-
-## 🎯 Career Goal
-
-I'm working toward becoming a **Technical Lead**, where I can combine strong software engineering with mentoring, architecture, and technical leadership.
+I enjoy turning complex engineering problems into simple, scalable solutions and continuously learning new technologies that make systems faster, cleaner, and more reliable.
 
 ---
 
@@ -105,16 +95,4 @@ I'm working toward becoming a **Technical Lead**, where I can combine strong sof
 - 💻 GitHub: https://github.com/youssefkhdessouky
 - 📧 Email: youssefkhdessouky@gmail.com
 
----
 
-## ⚡ Fun Fact
-
-I enjoy turning complex engineering problems into simple, scalable solutions and continuously learning new technologies that make systems faster, cleaner, and more reliable.
-
-## 📊 GitHub Stats
-
-![Youssef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=youssefkhdessouky&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=youssefkhdessouky&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=youssefkhdessouky&theme=tokyonight)
